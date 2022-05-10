@@ -3,3 +3,5 @@ node_modules/
 config.json
 config/
 price_csv.txt
+package.json
+package-lock.json
